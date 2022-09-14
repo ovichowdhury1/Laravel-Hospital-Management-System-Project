@@ -1,0 +1,162 @@
+Install:
+XAMPP
+Composer for Laravel Project
+
+Open project: 
+CMD-php artisan serve
+
+Sublime Page:
+.env->DB_DATABASE=hospital
+
+Xampp- hospital database create
+
+CMD-Laravel Login and Registration System :
+1.composer require laravel/jetstream
+2.php artisan jetstream:install livewire
+3.npm install
+4.npm run dev
+5.changes in the table
+6.php artisan migrate
+
+use_tabel:
+database/migrations/users_table
+
+Register table:
+resources/views/auth/register.blade.php
+app/Actions/fortify/CreateNewUser.php
+app/models/user.php
+
+login home Dashboard:
+route create-
+app/Providers/RouteServiceProvider.php
+routes/web.php
+cmd-create Home controller-php artisan make:controller HomeController
+app/Http/HomeController.php
+app/Models/user.php
+admin Dashboard:resources/views/admin/home.blade.php
+
+Home Dashboard:
+resources/user/home.blade.php
+routes/web.php
+app/http/controller/HomeController.php
+
+
+Add doctors:
+resources/views/admin/sidebar.blade.php
+routes/web.php
+cmd-php artisan make:controller AdminController
+app/Http/Controllers/AdminController.php
+cmd-php artisan make:model Doctor -m
+database/migrations
+cmd-php artisan migrate
+routes/web.php
+App/http/AdminController.php                image generate- public doctorimage
+
+
+Doctor part:
+resource/views/user/doctor.blade.php
+app/http/controllers/HomeController.php
+
+
+Appointment:
+
+app/http/controllers/HomeController.php
+resources/views/user/appointment.blade.php
+database table+ migration cmd-php artisan make:model Appointment -m
+migration-database/migratio/appointments
+cmd-php artisan migrate
+resources/views/user/appointment.blade.php
+url create-routes/web.php
+app/Http/controllers/HomeController.php
+resources/views/user/home.blade.php
+
+
+
+I have a doctor's appointment tomorrow
+
+
+
+
+
+
+
+Show And Delete Data appointment user-
+resources/views/user/home.blade.php
+routes/web.php
+app/http/controller/HomeController.phpS
+resources/views/user/my_appointment.blade.php
+
+ 
+
+
+
+
+Approved/cancel admin appointment part-
+resources/views/admin/sidebar.blade.php
+routes/web.php
+app/http/controller/AdminController.php
+resources/views/admin/showappoitment new file create
+resources/views/showappointment.blade.php
+app/Http/controllers/AdminController.php
+app/Models/Appointment.php
+
+Send Email Notification-
+
+resources/views/admin/showappoitment
+routes/web.php
+app/http/controller/AdminController.phpS
+resources/views/admin/email_view.blade.php
+cmd command--
+php artisan notifications:table
+php artisan migrate
+php artisan make:notification SendEmailNotification
+
+database/migrations/notification_table
+Xampp r notifacations table
+app/Notifications/SendEmailNotification.php
+.enb
+app/http/models/appointment
+
+
+we need an appointment
+
+Professor Dr. M. Rezawal Karim
+
+
+
+
+Doctor page-
+app/resources/doctor/home.blade.php
+app/http/controllers/HomeController.php
+resources/views/doctor/sidebar.blade.php
+routes/web.php
+http/controller/doctorcontroller
+cmd-php artisan make:controller DoctorController
+Table database cmd:
+php artisan make:model schedule -m
+models/shechudle.php
+database/migrations/schedules_tabe.php
+cmd:php artisan migrate
+
+
+adminpanel shechudle-
+resources/views/admin/sidebar.blade.php
+routes/web.php
+app/http/controller/AdminController.php
+resources/views/admin/showschedule new file create
+resources/views/showschedule.blade.php
+app/Http/controllers/AdminController.php
+app/Models/Schedule.php
+
+
+Email Verification & Forgot Password In Laravel 
+app/Models/users.php
+app/Models/confiq/fortify.php
+.enb
+got o gmail less secure app option on
+route/web.php
+
+
+
+yeachmin
+yeachminsultana@gmail.com
