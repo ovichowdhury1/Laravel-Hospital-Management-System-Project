@@ -13,6 +13,8 @@
 ![image](https://user-images.githubusercontent.com/73254785/190318112-c74ec8d8-562d-4fba-b64b-2b3a6e08ef55.png)
 ![image](https://user-images.githubusercontent.com/73254785/190318524-32a69a96-9774-459d-993a-ab063711d7cb.png)
 ![image](https://user-images.githubusercontent.com/73254785/190318719-04b97326-e306-4007-a2e2-302ad8968fa5.png)
+![screencapture-127-0-0-1-8000-add-schedule-view-2022-09-15-11_06_32](https://user-images.githubusercontent.com/73254785/190319212-e1314058-0b57-4557-91ca-b1bbaf12c5db.png)
+
 
 
 
