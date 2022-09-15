@@ -2,6 +2,7 @@
 ![screencapture-127-0-0-1-8000-login-2022-09-15-09_47_44](https://user-images.githubusercontent.com/73254785/190309688-da3e45e2-afd7-45bb-8113-438ccceb3a09.png)
 ![screencapture-127-0-0-1-8000-register-2022-09-15-09_49_58 (1)](https://user-images.githubusercontent.com/73254785/190309796-8b8a2044-22dd-4348-946a-01cb6adb9668.png)
 ![screencapture-127-0-0-1-8000-forgot-password-2022-09-15-09_52_03](https://user-images.githubusercontent.com/73254785/190310119-68bd035d-615c-48e7-a3eb-ca2db90d2026.png)
+![screencapture-mail-google-mail-u-0-2022-09-15-10_02_07](https://user-images.githubusercontent.com/73254785/190311349-85a573f0-d127-48a5-83af-b814a2b6e18d.png)
 
 
 
