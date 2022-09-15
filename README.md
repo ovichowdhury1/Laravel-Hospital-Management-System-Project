@@ -4,6 +4,7 @@
 ![screencapture-127-0-0-1-8000-forgot-password-2022-09-15-09_52_03](https://user-images.githubusercontent.com/73254785/190310119-68bd035d-615c-48e7-a3eb-ca2db90d2026.png)
 ![screencapture-mail-google-mail-u-0-2022-09-15-10_02_07](https://user-images.githubusercontent.com/73254785/190311349-85a573f0-d127-48a5-83af-b814a2b6e18d.png)
 ![image](https://user-images.githubusercontent.com/73254785/190311996-876932b4-d213-4be4-880b-6f3a5b03c228.png)
+![image](https://user-images.githubusercontent.com/73254785/190312317-689c855f-9bda-4037-b295-3c56d1bca8d9.png)
 
 
 
