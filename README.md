@@ -11,6 +11,8 @@
 ![image](https://user-images.githubusercontent.com/73254785/190316616-0d991f34-6ad2-4559-8f2d-16cf32bb54ab.png)
 ![screencapture-127-0-0-1-8000-add-doctor-view-2022-09-15-10_47_16](https://user-images.githubusercontent.com/73254785/190316845-84d1f7a0-b0de-4f7a-ac3a-0d33e7a47aee.png)
 ![image](https://user-images.githubusercontent.com/73254785/190318112-c74ec8d8-562d-4fba-b64b-2b3a6e08ef55.png)
+![image](https://user-images.githubusercontent.com/73254785/190318524-32a69a96-9774-459d-993a-ab063711d7cb.png)
+
 
 
 
